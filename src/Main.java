@@ -39,6 +39,8 @@ public class Main {
                 logger.info("Keine Produkte im Regal.");
                 break;
             }
+            
+            logger.info(" ");
         }
     }
 }
